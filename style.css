@@ -1,0 +1,18 @@
+.inline{
+    display: inline-block;
+}
+h3{
+    width: 500px;
+}
+.titikDua{
+    display: inline;
+    
+}
+.v{
+    display: inline-block;
+    vertical-align: top;
+}
+.m{
+    display: inline;
+    vertical-align: top;
+}
